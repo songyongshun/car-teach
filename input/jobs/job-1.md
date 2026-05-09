@@ -4,7 +4,7 @@ NavigationTitle: 就业信息
 -------------------------
 
 ## 国家文件
-- [《智能网联汽车测试员专业能力评价标准》](https://www.ceietn.com/a/kejituiguang/kejikuaixun/1014.html)
+- 2024-10-23 交通运输部 [《智能网联汽车测试员专业能力评价标准》](https://www.ceietn.com/a/kejituiguang/kejikuaixun/1014.html)
 
 ## 新闻报道
 - 2024-10-10 [智能网联汽车测试员：守好自动驾驶安全“第一关”](https://www.xinhuanet.com/auto/20241010/cb1ab4c05c7c46a8a8d65d36e625c682/c.html)
