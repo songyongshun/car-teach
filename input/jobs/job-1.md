@@ -7,6 +7,7 @@ NavigationTitle: 就业信息
 - 2024-10-23 交通运输部 [《智能网联汽车测试员专业能力评价标准》](https://www.ceietn.com/a/kejituiguang/kejikuaixun/1014.html)
 
 ## 新闻报道
+- 2025-5-3 央广网 [智能网联汽车测试员如何给智能网联汽车“把脉问诊”？](https://news.qq.com/rain/a/20250503A034NQ00)
 - 2024-10-10 [智能网联汽车测试员：守好自动驾驶安全“第一关”](https://www.xinhuanet.com/auto/20241010/cb1ab4c05c7c46a8a8d65d36e625c682/c.html)
 - 2024-08-05 [车轮上的互联网人：智能网联汽车测试员，自动驾驶的“幕后守护者”](https://cn.chinadaily.com.cn/a/202408/05/WS66b094a5a310054d254eb868.html)
 - 2024-07-16 [当一名智能网联汽车测试员是什么体验？带你了解](https://www.peopleapp.com/column/30045871240-500005590324)
