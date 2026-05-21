@@ -12,9 +12,9 @@ NavigationTitle: 就业信息
 
 ## 新闻报道
 
-2024-8-21 财经杂志 [月薪六千、八小时排班制，自动驾驶安全员火了](https://news.qq.com/rain/a/20240821A07SQN00)
+- 2024-8-21 财经杂志 [月薪六千、八小时排班制，自动驾驶安全员火了](https://news.qq.com/rain/a/20240821A07SQN00)
 
 ## 相关招聘
 
-2026-3-16 [江苏行之途智能科技有限公司](https://www.liepin.com/lptjob/80978675)
-2026-4-27 [北京能科瑞元数字技术有限公司](https://www.liepin.com/job/1982129755.shtml)
+- 2026-3-16 [江苏行之途智能科技有限公司](https://www.liepin.com/lptjob/80978675)
+- 2026-4-27 [北京能科瑞元数字技术有限公司](https://www.liepin.com/job/1982129755.shtml)
