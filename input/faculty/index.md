@@ -11,3 +11,10 @@ NavigationTitle: 教师
 - 薛新宇，助教
 - 周洁，助教
 
+
+<p align="center">
+  <img src="image/合影/screenshot_1788994409403.png" alt="图片1" width="60%" style="max-width:700px;">
+</p>
+
+
+
