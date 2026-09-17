@@ -45,7 +45,7 @@ NavigationTitle: 课程
 | [程序设计基础（python）](https://ciit-python.netlify.app)      | 必修课   | 张亚楠/袁凯峰 |      |
 | [程序设计基础（C）](https://thriving-puppy-30ce9e.netlify.app) | 必修课   | 周洁          | 1    |
 | 计算机网络技术                                                 | 必修课   | 殷玉明        | 3    |
-| 数据库技术                                                     | 必修课   |               |      |
+| [数据库技术](https://chipper-frangollo-8b536a.netlify.app)     | 必修课   |               |      |
 | 网页设计与制作                                                 | 必修课   |               |      |
 | [操作系统应用](https://ciit-linux.netlify.app)                 | 必修课   |               |      |
 
@@ -54,15 +54,15 @@ NavigationTitle: 课程
 ## 专业核心课
 
 
-| 课程名称                                                   | 课程性质 | 授课教师      | 学期 |
-| ------------------------------------------------------------ | ---------- | --------------- | ------ |
-| [智能网联汽车概论](https://ciit-icv-intro.netlify.app)     | 必修课   | 王新/陆海澎   | 1    |
-| [汽车电工电子技术](https://ciit-aet.netlify.app)           | 必修课   | 谢俐俐/姚庆文 | 1    |
-| 单片机技术应用                                             | 必修课   | 周洁          | 2    |
-| [智能传感器装调与测试](https://ciit-sensor.netlify.app)    | 必修课   | 陆小丹        | 3    |
-| [计算平台部署与测试](https://ciit-apollo.netlify.app)      | 必修课   | 薛新宇        | 2    |
-| 底盘线控系统装调与测试                                     | 必修课   | 薛新宇        | 3    |
-| [智能座舱系统装调与测试](https://ciit-cockpit.netlify.app) | 必修课   | 徐亦卿        | 4    |
+| 课程名称                                                      | 课程性质 | 授课教师      | 学期 |
+| --------------------------------------------------------------- | ---------- | --------------- | ------ |
+| [智能网联汽车概论](https://ciit-icv-intro.netlify.app)        | 必修课   | 王新/陆海澎   | 1    |
+| [汽车电工电子技术](https://ciit-aet.netlify.app)              | 必修课   | 谢俐俐/姚庆文 | 1    |
+| [单片机技术应用](https://timely-starburst-2737c0.netlify.app) | 必修课   | 周洁          | 2    |
+| [智能传感器装调与测试](https://ciit-sensor.netlify.app)       | 必修课   | 陆小丹        | 3    |
+| [计算平台部署与测试](https://ciit-apollo.netlify.app)         | 必修课   | 薛新宇        | 2    |
+| 底盘线控系统装调与测试                                        | 必修课   | 薛新宇        | 3    |
+| [智能座舱系统装调与测试](https://ciit-cockpit.netlify.app)    | 必修课   | 徐亦卿        | 4    |
 
 ---
 
