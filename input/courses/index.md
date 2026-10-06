@@ -30,7 +30,7 @@ NavigationTitle: 课程
 | 国防教育与身心健康 | 军事理论                                 | 必修         | 赵云/朱菁   | 2       |
 | 国防教育与身心健康 | 入学教育与急救技能                       | 必修         |             | 1       |
 | 国防教育与身心健康 | 大学生国家安全教育                       | 必修(线上)   |             | 3       |
-| 职业素养           | 大学生职业生涯规划                       | 必修         |             | 1       |
+| 职业素养           | 大学生职业生涯规划                       | 必修         | 刘静        | 1       |
 | 职业素养           | 就业指导                                 | 必修         | 张静文/朱菁 | 4       |
 | 职业素养           | 劳动通识教育                             | 必修         |             | 3       |
 | 职业素养           | 人工智能通识课                           | 必修         | 王晔娇      | 2       |
@@ -43,11 +43,11 @@ NavigationTitle: 课程
 | 课程名称                                                       | 课程性质 | 授课教师      | 学期 |
 | ---------------------------------------------------------------- | ---------- | --------------- | ------ |
 | [程序设计基础（C）](https://thriving-puppy-30ce9e.netlify.app) | 必修课   | 周洁/徐丙磊   | 1    |
-| [程序设计基础（python）](https://ciit-python.netlify.app)      | 必修课   | 张亚楠/袁凯峰 |      |
+| [程序设计基础（python）](https://ciit-python.netlify.app)      | 必修课   | 张亚楠/袁凯峰 | 3    |
 | [计算机网络技术](https://computernetwork-wwxx.netlify.app)     | 必修课   | 王霞俊        | 3    |
-| [数据库技术](https://chipper-frangollo-8b536a.netlify.app)     | 必修课   |               |      |
-| [网页设计与制作](https://webdevelopment-wwxx.netlify.app)      | 必修课   |               |      |
-| [操作系统应用](https://ciit-linux.netlify.app)                 | 必修课   |               |      |
+| [数据库技术](https://chipper-frangollo-8b536a.netlify.app)     | 必修课   |               | 3    |
+| [网页设计与制作](https://webdevelopment-wwxx.netlify.app)      | 必修课   |               | 4    |
+| [操作系统应用](https://ciit-linux.netlify.app)                 | 必修课   |               | 2    |
 
 ---
 
