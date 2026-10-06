@@ -42,8 +42,8 @@ NavigationTitle: 课程
 
 | 课程名称                                                       | 课程性质 | 授课教师      | 学期 |
 | ---------------------------------------------------------------- | ---------- | --------------- | ------ |
-| [程序设计基础（python）](https://ciit-python.netlify.app)      | 必修课   | 张亚楠/袁凯峰 |      |
 | [程序设计基础（C）](https://thriving-puppy-30ce9e.netlify.app) | 必修课   | 周洁/徐丙磊   | 1    |
+| [程序设计基础（python）](https://ciit-python.netlify.app)      | 必修课   | 张亚楠/袁凯峰 |      |
 | [计算机网络技术](https://computernetwork-wwxx.netlify.app)     | 必修课   | 王霞俊        | 3    |
 | [数据库技术](https://chipper-frangollo-8b536a.netlify.app)     | 必修课   |               |      |
 | [网页设计与制作](https://webdevelopment-wwxx.netlify.app)      | 必修课   |               |      |
