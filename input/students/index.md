@@ -19,3 +19,7 @@ NavigationTitle: 学生培养
 ## 2025年
 - [智能网联现场工程师331](xref:students/2025-engineer-331)
 - [智能网联现场工程师332](xref:students/2025-engineer-332)
+
+## 2026年
+- [智能网联631](xref:students/2026-631)
+- [智能网联331](xref:students/2026-331)
